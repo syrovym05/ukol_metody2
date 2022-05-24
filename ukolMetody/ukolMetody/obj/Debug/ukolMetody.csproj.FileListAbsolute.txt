@@ -1,0 +1,11 @@
+C:\Users\marsy\Source\Repos\ukolMetody\ukolMetody\bin\Debug\ukolMetody.exe.config
+C:\Users\marsy\Source\Repos\ukolMetody\ukolMetody\bin\Debug\ukolMetody.exe
+C:\Users\marsy\Source\Repos\ukolMetody\ukolMetody\bin\Debug\ukolMetody.pdb
+C:\Users\marsy\Source\Repos\ukolMetody\ukolMetody\obj\Debug\ukolMetody.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\ukolMetody\ukolMetody\obj\Debug\ukolMetody.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\ukolMetody\ukolMetody\obj\Debug\ukolMetody.Form1.resources
+C:\Users\marsy\Source\Repos\ukolMetody\ukolMetody\obj\Debug\ukolMetody.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\ukolMetody\ukolMetody\obj\Debug\ukolMetody.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\ukolMetody\ukolMetody\obj\Debug\ukolMetody.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\ukolMetody\ukolMetody\obj\Debug\ukolMetody.exe
+C:\Users\marsy\Source\Repos\ukolMetody\ukolMetody\obj\Debug\ukolMetody.pdb
